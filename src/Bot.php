@@ -16,6 +16,7 @@ class Bot
 
 	protected $common_responds = [
 		"Ok", 
+		"Ok",
 		"I see",
 	];
 
